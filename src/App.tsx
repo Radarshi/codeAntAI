@@ -1,8 +1,8 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Auth from "./Pages/Auth.tsx";
 import Home from "./Pages/Home.tsx";
-import Review from "./Pages/review.tsx";
-import Security from "./Pages/security.tsx";
+import Review from "./Pages/Review.jsx";
+import Security from "./Pages/Security.jsx";
 import Settings from "./Pages/Settings.tsx";
 import Support from "./Pages/Support.tsx";
 import Use from "./Pages/Use.tsx";
