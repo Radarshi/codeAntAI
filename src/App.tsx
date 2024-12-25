@@ -6,7 +6,6 @@ import Security from "./Pages/Security.jsx";
 import Settings from "./Pages/Settings.tsx";
 import Support from "./Pages/Support.tsx";
 import Use from "./Pages/Use.tsx";
-
 function App() {
 
   return (
